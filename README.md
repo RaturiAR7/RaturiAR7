@@ -1,5 +1,5 @@
-### Hi there 👋
-# Here are some of the badges I have earned
+## Hi there 👋
+### Here are some of the badges I have earned
 [![An image of @raturiar7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raturiar7)](https://holopin.io/@raturiar7)
 <!--
 **RaturiAR7/RaturiAR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
